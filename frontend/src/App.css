@@ -1,0 +1,32 @@
+/********************************************* Header Component ***************************************************************/
+.appHeader {
+    text-align: center;
+    color: #6f6ff1;
+    /* margin-top: 2%; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/********************************************** App Component ****************************************************************/
+.todoListDiv {
+    margin: auto;
+    margin-top: 2%;
+    width: 90%;
+    border: 3px solid #6f6ff1;
+    padding: 50px;
+
+}
+
+#loginDiv {
+    margin: auto;
+    margin-top: 2%;
+    width: 50%;
+    border: 3px solid rgb(50, 52, 50);
+    padding: 20px;
+}
+
+.addTaskFormDiv {
+    margin: auto;
+    margin-top: 2%;
+    width: 50%;
+    padding: 20px;
+}
